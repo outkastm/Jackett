@@ -1,0 +1,97 @@
+[en-us]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "Add virtually any tracker to Sonarr, Radarr, and CouchPotato"
+release_note = "Bundles Jackett v0.24.2798 packed from source"
+
+[zh-cn]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "为 Sonarr、Radarr 和 CouchPotato 添加几乎任何 Tracker 索引器"
+release_note = "基于源代码打包，包含 Jackett v0.24.2798"
+
+[zh-hk]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "為 Sonarr、Radarr 和 CouchPotato 新增幾乎任何 Tracker 追蹤器"
+release_note = "基於原始碼打包，內建 Jackett v0.24.2798"
+
+[ja-jp]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "Sonarr、Radarr、CouchPotato にほぼすべてのトラッカーを追加"
+release_note = "ソースからパッケージングされた Jackett v0.24.2798 を同梱"
+
+[de-de]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "Fügen Sie nahezu jeden Tracker zu Sonarr, Radarr und CouchPotato hinzu"
+release_note = "Enthält Jackett v0.24.2798 aus dem Quellcode gepackt"
+
+[fr-fr]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "Ajoutez pratiquement n'importe quel tracker à Sonarr, Radarr et CouchPotato"
+release_note = "Intègre Jackett v0.24.2798 paqueté à partir des sources"
+
+[it-it]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "Aggiungi praticamente qualsiasi tracker a Sonarr, Radarr e CouchPotato"
+release_note = "Include Jackett v0.24.2798 pacchettizzato dai sorgenti"
+
+[es-es]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "Añade prácticamente cualquier tracker a Sonarr, Radarr y CouchPotato"
+release_note = "Incluye Jackett v0.24.2798 empaquetado desde el código fuente"
+
+[ko-kr]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "Sonarr, Radarr 및 CouchPotato에 거의 모든 트래커를 추가하세요"
+release_note = "소스에서 패키지화된 Jackett v0.24.2798 포함"
+
+[hu-hu]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "Adjon hozzá szinte bármilyen trackert a Sonarr, Radarr és CouchPotato alkalmazásokhoz"
+release_note = "Forrásból csomagolt Jackett v0.24.2798 verziót tartalmaz"
+
+[pl-pl]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "Dodaj niemal dowolny tracker do aplikacji Sonarr, Radarr i CouchPotato"
+release_note = "Zawiera Jackett v0.24.2798 spakowany ze źródeł"
+
+[ru-ru]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "Добавляйте практически любые трекеры в Sonarr, Radarr и CouchPotato"
+release_note = "Содержит Jackett v0.24.2798, собранный из исходного кода"
+
+[tr-tr]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "Sonarr, Radarr ve CouchPotato'ya neredeyse her izleyiciyi (tracker) ekleyin"
+release_note = "Kaynaktan paketlenmiş Jackett v0.24.2798 sürümünü içerir"
+
+[pt-pt]
+name = "Jackett"
+auth = "Jackett"
+version = "1.00.000"
+descript = "Adicione praticamente qualquer tracker ao Sonarr, Radarr e CouchPotato"
+release_note = "Inclui Jackett v0.24.2798 empacotado a partir do código-fonte"
